@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\DELL\OneDrive\Área de Trabalho\Projetos\devops\tasks-backend\.metadata\.plugins\org.eclipse.jdt.core
+3687557462.index
